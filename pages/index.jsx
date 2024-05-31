@@ -66,7 +66,7 @@ export default function Home() {
   };
 
   return (
-    <div className="container mx-auto py-8">
+    <div className="container px-2 mx-auto py-8">
       <h1 className="text-3xl font-bold mb-4">Image Filter App</h1>
       <input
         type="text"
